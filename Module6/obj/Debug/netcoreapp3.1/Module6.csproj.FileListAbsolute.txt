@@ -1,0 +1,12 @@
+/Users/alexanderhoang/Desktop/Module6/Module6/bin/Debug/netcoreapp3.1/Module6.deps.json
+/Users/alexanderhoang/Desktop/Module6/Module6/bin/Debug/netcoreapp3.1/Module6.runtimeconfig.json
+/Users/alexanderhoang/Desktop/Module6/Module6/bin/Debug/netcoreapp3.1/Module6.runtimeconfig.dev.json
+/Users/alexanderhoang/Desktop/Module6/Module6/bin/Debug/netcoreapp3.1/Module6.dll
+/Users/alexanderhoang/Desktop/Module6/Module6/bin/Debug/netcoreapp3.1/Module6.pdb
+/Users/alexanderhoang/Desktop/Module6/Module6/obj/Debug/netcoreapp3.1/Module6.csprojAssemblyReference.cache
+/Users/alexanderhoang/Desktop/Module6/Module6/obj/Debug/netcoreapp3.1/Module6.AssemblyInfoInputs.cache
+/Users/alexanderhoang/Desktop/Module6/Module6/obj/Debug/netcoreapp3.1/Module6.AssemblyInfo.cs
+/Users/alexanderhoang/Desktop/Module6/Module6/obj/Debug/netcoreapp3.1/Module6.csproj.CoreCompileInputs.cache
+/Users/alexanderhoang/Desktop/Module6/Module6/obj/Debug/netcoreapp3.1/Module6.dll
+/Users/alexanderhoang/Desktop/Module6/Module6/obj/Debug/netcoreapp3.1/Module6.pdb
+/Users/alexanderhoang/Desktop/Module6/Module6/obj/Debug/netcoreapp3.1/Module6.genruntimeconfig.cache
